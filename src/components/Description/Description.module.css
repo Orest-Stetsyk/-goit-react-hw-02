@@ -1,0 +1,16 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    text-align: start;
+    width: 800px;
+    margin: 0 auto;
+    padding: 10px 0;
+}
+
+.title {
+    margin-bottom: 25px;
+}
+
+.text {
+    margin-bottom: 10px;
+}
